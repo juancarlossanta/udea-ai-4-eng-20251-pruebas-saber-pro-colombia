@@ -1,5 +1,7 @@
 # Proyecto udea-ai-4-eng-20251-pruebas-saber-pro-colombia
 
+Video entrega 2: https://youtu.be/Em3av0Byrss
+
 ## Integrantes del equipo
 
 - **Nombre:** Juan Carlos Santa Hurtado  
